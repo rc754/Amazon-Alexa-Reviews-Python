@@ -39,7 +39,7 @@ The first step for conducting the research includes data collection for training
 
 ## Results
 <p align="center">
-  <img src="https://github.com/rc754/rc754/blob/main/Images/result-table.PNG" width="500"/>
+  <img src="https://github.com/rc754/rc754/blob/main/Images/result-table.PNG" width="600"/>
 </p>
 
 In conclusion, the results show the vast majority of reviews written by Amazon’s Alexa customers were highly positive. Overall, 87% of the customers gave Alexa at least 4- star
